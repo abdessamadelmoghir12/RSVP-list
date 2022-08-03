@@ -1,0 +1,7 @@
+name: My rsv
+type: module
+description: My rsv
+package: Custom
+core_version_requirement: ^9 || ^10
+dependencies:
+  - media:media
